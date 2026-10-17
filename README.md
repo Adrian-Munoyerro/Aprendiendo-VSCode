@@ -13,4 +13,3 @@ Aprender a crear y documentar laboratorios de Azure.
 ## Herramientas utilizadas
 
 - Estamos trabajando primeros pasos en comandos básicos de Git y aprendiendo el flujo de proyectos con su Readme propio donde poder explicar mis ideas arquitectónicas y aprender sobre situaciones prácticas reales, con VS Code, Git, Github, Codex.
-
